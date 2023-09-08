@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UEVirtualCursorDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "UEVirtualCursor",
+			"Enabled": true,
+			"MarketplaceURL": "https://github.com/YawLighthouse/UEVirtualCursor"
+		}
+	]
+}
