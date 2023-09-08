@@ -1,0 +1,3 @@
+[submodule "Plugins/UEVirtualCursor"]
+	path = Plugins/UEVirtualCursor
+	url = https://github.com/YawLighthouse/UEVirtualCursor.git
