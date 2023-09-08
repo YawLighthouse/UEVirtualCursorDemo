@@ -12,6 +12,13 @@
 	],
 	"Plugins": [
 		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
 			"Name": "UEVirtualCursor",
 			"Enabled": true,
 			"MarketplaceURL": "https://github.com/YawLighthouse/UEVirtualCursor"
