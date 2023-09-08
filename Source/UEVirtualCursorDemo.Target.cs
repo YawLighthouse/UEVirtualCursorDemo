@@ -1,4 +1,4 @@
-// Copyright 2020 by Nicholas Helish. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 
 using UnrealBuildTool;
 using System.Collections.Generic;
